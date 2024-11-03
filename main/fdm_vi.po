@@ -1436,7 +1436,7 @@ msgstr ""
 
 msgctxt "DownloadWindow|"
 msgid "Downloaded"
-msgstr ""
+msgstr "Đã tải xuống"
 
 msgctxt "DownloadWindow|"
 msgid "%1% [%2]"
@@ -1448,15 +1448,15 @@ msgstr "Tốc độ"
 
 msgctxt "DownloadWindow|"
 msgid "Time remaining"
-msgstr ""
+msgstr "Thời gian còn lại"
 
 msgctxt "DownloadWindow|"
 msgid "Open download when it is completed"
-msgstr ""
+msgstr "Mở tải xuống khi hoàn tất"
 
 msgctxt "DownloadWindow|"
 msgid "Close this window when the download is completed or stopped"
-msgstr ""
+msgstr "Đóng cửa sổ này khi quá trình tải xuống hoàn tất hoặc bị dừng"
 
 msgctxt "DownloadWindow|"
 msgid "Remember to always close by default"
