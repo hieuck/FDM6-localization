@@ -846,7 +846,7 @@ msgid ""
 "g. from <a href='https://github.com/ngosang/trackerslist'>here</a>."
 msgstr ""
 "Việc sử dụng trình theo dõi bổ sung có thể cải thiện tốc độ tải xuống trong một số trường hợp. Danh sách các trình theo dõi như vậy có thể "
-"Được lấy từ các nguồn khác nhau, ví dụ: từ <a href = 'https: //github.com/ngosang/Theo dõi danh sách '> ở đây </a>."
+"Được lấy từ các nguồn khác nhau, ví dụ: từ <a href='https://github.com/ngosang/trackerslist'>ở đây</a>."
 
 msgctxt "BtStrings|"
 msgid "Uploaded"
