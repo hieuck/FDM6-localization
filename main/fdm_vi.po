@@ -693,10 +693,7 @@ msgstr "Tích hợp trình duyệt"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Make sure you have %1 extension installed, otherwise, click one of the buttons below"
-msgstr ""
-"Đảm bảo bạn đã cài đặt tiện ích mở rộng %1, nếu không, hãy nhấp vào một trong các nút bên "
-"dướiĐảm bảo bạn đã cài đặt tiện ích mở rộng %1, nếu không, hãy nhấp vào một trong các nút bên "
-"dưới"
+msgstr "Đảm bảo bạn đã cài đặt tiện ích mở rộng %1, nếu không, hãy nhấp vào một trong các nút bên dưới"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Other supported browsers"
