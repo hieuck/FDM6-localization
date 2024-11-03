@@ -5120,7 +5120,7 @@ msgstr ""
 
 msgctxt "WaitingPage|"
 msgid "Connection to %1"
-msgstr ""
+msgstr "Kết nối tới %1"
 
 msgctxt "WaitingPage|"
 msgid "Error: %1"
@@ -5136,7 +5136,7 @@ msgstr "Hủy"
 
 msgctxt "WaitingPage|"
 msgid "Abort"
-msgstr ""
+msgstr "Hủy bỏ"
 
 msgctxt "WhatsNewDialog|"
 msgid "New version is available"
@@ -5144,7 +5144,7 @@ msgstr "Phiên bản mới có sẵn"
 
 msgctxt "WhatsNewDialog|"
 msgid "What's new in %1"
-msgstr ""
+msgstr "Có gì mới trong %1?"
 
 msgctxt "WhatsNewDialog|"
 msgid "Update"
@@ -5152,12 +5152,12 @@ msgstr "Cập nhật"
 
 msgctxt "main|"
 msgid "Sorry, the report hasn't been sent, an error occurred: %1"
-msgstr ""
+msgstr "Xin lỗi, báo cáo chưa được gửi, đã xảy ra lỗi: %1."
 
 msgctxt "main|"
 msgid "The report has been sent. Thank you for your cooperation!"
-msgstr ""
+msgstr "Báo cáo đã được gửi. Cảm ơn bạn đã hợp tác!"
 
 msgctxt "main|"
 msgid "Remote connection to %1"
-msgstr ""
+msgstr "Kết nối từ xa tới %1"
