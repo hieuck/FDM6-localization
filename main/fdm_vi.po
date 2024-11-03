@@ -349,7 +349,7 @@ msgstr "Hủy"
 
 msgctxt "AppAndroidPermissionsManager|"
 msgid "Storage"
-msgstr ""
+msgstr "Bộ nhớ"
 
 msgctxt "AppAndroidPermissionsManager|"
 msgid "Notifications"
